@@ -1,0 +1,11 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+5_interface_UI/accounts.txt
+5_interface_UI/accounts.db
+
